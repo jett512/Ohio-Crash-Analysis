@@ -1,2 +1,2 @@
-![Dashboard](XCrash.png)
+![Dashboard](Views/XCrash.png)
 
