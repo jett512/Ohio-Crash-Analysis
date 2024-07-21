@@ -1,0 +1,38 @@
+ODOT_YOUNG_DRIVER_IND,CRASH_TYPE_CD,Crash_Count
+N,Angle,7304
+N,Animal,6142
+N,Backing,2825
+N,"Fixed Object",12669
+N,"Head On",1059
+N,"Left Turn",3179
+N,"Other Non-Collision",1060
+N,"Other Non-Vehicle",3
+N,"Other Object",593
+N,Overturning,567
+N,"Parked Vehicle",4181
+N,Pedalcycles,240
+N,Pedestrian,678
+N,"Rear End",13453
+N,"Right Turn",1661
+N,"Sideswipe - Meeting",34
+N,"Sideswipe - Passing",8883
+N,Train,12
+N,Unknown,293
+Y,Angle,5508
+Y,Animal,1488
+Y,Backing,971
+Y,"Fixed Object",6161
+Y,"Head On",647
+Y,"Left Turn",2282
+Y,"Other Non-Collision",374
+Y,"Other Object",151
+Y,Overturning,257
+Y,"Parked Vehicle",729
+Y,Pedalcycles,167
+Y,Pedestrian,154
+Y,"Rear End",10778
+Y,"Right Turn",1089
+Y,"Sideswipe - Meeting",33
+Y,"Sideswipe - Passing",4297
+Y,Train,4
+Y,Unknown,74

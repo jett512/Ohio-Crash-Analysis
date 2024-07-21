@@ -1,0 +1,41 @@
+WEATHER_COND_CD,CRASH_SEVERITY_CD,Count
+"Blowing Sand, Soil, Dirt, Snow","Injury Possible",7
+"Blowing Sand, Soil, Dirt, Snow","Minor Injury Suspected",4
+"Blowing Sand, Soil, Dirt, Snow","Property Damage Only",26
+Clear,Fatal,131
+Clear,"Injury Possible",6032
+Clear,"Minor Injury Suspected",7359
+Clear,"Property Damage Only",42626
+Clear,"Serious Injury Suspected",1667
+Cloudy,Fatal,50
+Cloudy,"Injury Possible",2706
+Cloudy,"Minor Injury Suspected",3021
+Cloudy,"Property Damage Only",17913
+Cloudy,"Serious Injury Suspected",620
+"Fog, Smog, Smoke",Fatal,1
+"Fog, Smog, Smoke","Injury Possible",46
+"Fog, Smog, Smoke","Minor Injury Suspected",68
+"Fog, Smog, Smoke","Property Damage Only",407
+"Fog, Smog, Smoke","Serious Injury Suspected",16
+"Other / Unknown","Injury Possible",4
+"Other / Unknown","Minor Injury Suspected",21
+"Other / Unknown","Property Damage Only",93
+"Other / Unknown","Serious Injury Suspected",2
+Rain,Fatal,16
+Rain,"Injury Possible",1313
+Rain,"Minor Injury Suspected",1515
+Rain,"Property Damage Only",8570
+Rain,"Serious Injury Suspected",214
+"Severe Crosswinds","Injury Possible",4
+"Severe Crosswinds","Minor Injury Suspected",13
+"Severe Crosswinds","Property Damage Only",65
+"Sleet, Hail",Fatal,1
+"Sleet, Hail","Injury Possible",34
+"Sleet, Hail","Minor Injury Suspected",46
+"Sleet, Hail","Property Damage Only",260
+"Sleet, Hail","Serious Injury Suspected",5
+Snow,Fatal,7
+Snow,"Injury Possible",420
+Snow,"Minor Injury Suspected",447
+Snow,"Property Damage Only",3452
+Snow,"Serious Injury Suspected",60

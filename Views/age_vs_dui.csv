@@ -1,0 +1,71 @@
+ODOT_YOUNG_DRIVER_IND,U1_DISTRACTED_BY_1_CD,U1_IS_ALCOHOL_SUSPECTED,U1_IS_MARIJUANA_SUSPECTED,Crash_Count
+N,"Data Not Valid Or Not Provided",N,N,3220
+N,"Data Not Valid Or Not Provided",N,Y,11
+N,"Data Not Valid Or Not Provided",Y,N,20
+N,"Data Not Valid Or Not Provided",Y,Y,19
+N,"Manually Operating An Electronic Communication Device (Texting, Typing, Dialing)",N,N,229
+N,"Manually Operating An Electronic Communication Device (Texting, Typing, Dialing)",N,Y,25
+N,"Manually Operating An Electronic Communication Device (Texting, Typing, Dialing)",Y,N,24
+N,"Manually Operating An Electronic Communication Device (Texting, Typing, Dialing)",Y,Y,25
+N,"Other / Unknown",N,N,4065
+N,"Other / Unknown",N,Y,114
+N,"Other / Unknown",Y,N,265
+N,"Other / Unknown",Y,Y,172
+N,"Other Activity With An Electronic Device",N,N,318
+N,"Other Activity With An Electronic Device",N,Y,21
+N,"Other Activity With An Electronic Device",Y,N,15
+N,"Other Activity With An Electronic Device",Y,Y,12
+N,"Other Distraction Inside The Vehicle",N,N,1427
+N,"Other Distraction Inside The Vehicle",N,Y,62
+N,"Other Distraction Inside The Vehicle",Y,N,30
+N,"Other Distraction Inside The Vehicle",Y,Y,21
+N,"Other Distraction Outside The Vehicle",N,N,1159
+N,"Other Distraction Outside The Vehicle",N,Y,23
+N,"Other Distraction Outside The Vehicle",Y,N,20
+N,"Other Distraction Outside The Vehicle",Y,Y,20
+N,Passenger,N,N,119
+N,Passenger,N,Y,7
+N,Passenger,Y,N,9
+N,Passenger,Y,Y,8
+N,"Talking On Hand-Held Communication Device",N,N,228
+N,"Talking On Hand-Held Communication Device",N,Y,5
+N,"Talking On Hand-Held Communication Device",Y,N,4
+N,"Talking On Hand-Held Communication Device",Y,Y,6
+N,"Talking On Hands-Free Communication Device",N,N,56
+N,"Talking On Hands-Free Communication Device",N,Y,1
+N,"Talking On Hands-Free Communication Device",Y,N,4
+N,"Talking On Hands-Free Communication Device",Y,Y,2
+Y,"Data Not Valid Or Not Provided",N,N,479
+Y,"Data Not Valid Or Not Provided",N,Y,7
+Y,"Data Not Valid Or Not Provided",Y,N,7
+Y,"Data Not Valid Or Not Provided",Y,Y,4
+Y,"Manually Operating An Electronic Communication Device (Texting, Typing, Dialing)",N,N,177
+Y,"Manually Operating An Electronic Communication Device (Texting, Typing, Dialing)",N,Y,17
+Y,"Manually Operating An Electronic Communication Device (Texting, Typing, Dialing)",Y,N,16
+Y,"Manually Operating An Electronic Communication Device (Texting, Typing, Dialing)",Y,Y,19
+Y,"Other / Unknown",N,N,1255
+Y,"Other / Unknown",N,Y,97
+Y,"Other / Unknown",Y,N,90
+Y,"Other / Unknown",Y,Y,113
+Y,"Other Activity With An Electronic Device",N,N,380
+Y,"Other Activity With An Electronic Device",N,Y,26
+Y,"Other Activity With An Electronic Device",Y,N,4
+Y,"Other Activity With An Electronic Device",Y,Y,13
+Y,"Other Distraction Inside The Vehicle",N,N,1050
+Y,"Other Distraction Inside The Vehicle",N,Y,38
+Y,"Other Distraction Inside The Vehicle",Y,N,11
+Y,"Other Distraction Inside The Vehicle",Y,Y,19
+Y,"Other Distraction Outside The Vehicle",N,N,717
+Y,"Other Distraction Outside The Vehicle",N,Y,18
+Y,"Other Distraction Outside The Vehicle",Y,N,4
+Y,"Other Distraction Outside The Vehicle",Y,Y,8
+Y,Passenger,N,N,67
+Y,Passenger,N,Y,12
+Y,Passenger,Y,Y,6
+Y,"Talking On Hand-Held Communication Device",N,N,170
+Y,"Talking On Hand-Held Communication Device",N,Y,6
+Y,"Talking On Hand-Held Communication Device",Y,N,2
+Y,"Talking On Hand-Held Communication Device",Y,Y,4
+Y,"Talking On Hands-Free Communication Device",N,N,31
+Y,"Talking On Hands-Free Communication Device",N,Y,1
+Y,"Talking On Hands-Free Communication Device",Y,N,1

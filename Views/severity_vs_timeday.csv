@@ -1,0 +1,21 @@
+TimeOfDayCategory,CRASH_SEVERITY_CD,CrashCount
+Afternoon,Fatal,39
+Afternoon,"Injury Possible",4742
+Afternoon,"Minor Injury Suspected",5126
+Afternoon,"Property Damage Only",30163
+Afternoon,"Serious Injury Suspected",900
+Evening,Fatal,81
+Evening,"Injury Possible",2423
+Evening,"Minor Injury Suspected",3258
+Evening,"Property Damage Only",17801
+Evening,"Serious Injury Suspected",830
+Morning,Fatal,37
+Morning,"Injury Possible",2686
+Morning,"Minor Injury Suspected",2805
+Morning,"Property Damage Only",18653
+Morning,"Serious Injury Suspected",502
+Night,Fatal,49
+Night,"Injury Possible",729
+Night,"Minor Injury Suspected",1315
+Night,"Property Damage Only",7507
+Night,"Serious Injury Suspected",354

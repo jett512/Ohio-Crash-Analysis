@@ -1,0 +1,36 @@
+FUNCTIONAL_CLASS_CD,CRASH_SEVERITY_CD,Count
+"Interstate Route",Fatal,29
+"Interstate Route","Injury Possible",1208
+"Interstate Route","Minor Injury Suspected",1483
+"Interstate Route","Property Damage Only",9371
+"Interstate Route","Serious Injury Suspected",241
+"Local Roads",Fatal,39
+"Local Roads","Injury Possible",1507
+"Local Roads","Minor Injury Suspected",2076
+"Local Roads","Property Damage Only",14921
+"Local Roads","Serious Injury Suspected",467
+"Major Collector Roads",Fatal,42
+"Major Collector Roads","Injury Possible",1787
+"Major Collector Roads","Minor Injury Suspected",2611
+"Major Collector Roads","Property Damage Only",12880
+"Major Collector Roads","Serious Injury Suspected",605
+"Minor Arterial Roads",Fatal,46
+"Minor Arterial Roads","Injury Possible",2518
+"Minor Arterial Roads","Minor Injury Suspected",2718
+"Minor Arterial Roads","Property Damage Only",15201
+"Minor Arterial Roads","Serious Injury Suspected",528
+"Minor Collector Roads",Fatal,4
+"Minor Collector Roads","Injury Possible",172
+"Minor Collector Roads","Minor Injury Suspected",325
+"Minor Collector Roads","Property Damage Only",1571
+"Minor Collector Roads","Serious Injury Suspected",115
+"Other Freeways Or Expressways",Fatal,7
+"Other Freeways Or Expressways","Injury Possible",360
+"Other Freeways Or Expressways","Minor Injury Suspected",435
+"Other Freeways Or Expressways","Property Damage Only",2608
+"Other Freeways Or Expressways","Serious Injury Suspected",80
+"Other Principal Arterial Roads",Fatal,38
+"Other Principal Arterial Roads","Injury Possible",2883
+"Other Principal Arterial Roads","Minor Injury Suspected",2698
+"Other Principal Arterial Roads","Property Damage Only",15996
+"Other Principal Arterial Roads","Serious Injury Suspected",502

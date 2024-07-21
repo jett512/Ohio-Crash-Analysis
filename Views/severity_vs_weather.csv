@@ -1,0 +1,10 @@
+WEATHER_COND_CD,O_Count,C_Count,B_Count,A_Count,K_Count,Total_Count
+"Blowing Sand, Soil, Dirt, Snow",26,7,4,0,0,37
+Clear,42626,6032,7359,1667,131,57815
+Cloudy,17913,2706,3021,620,50,24310
+"Fog, Smog, Smoke",407,46,68,16,1,538
+"Other / Unknown",93,4,21,2,0,120
+Rain,8570,1313,1515,214,16,11628
+"Severe Crosswinds",65,4,13,0,0,82
+"Sleet, Hail",260,34,46,5,1,346
+Snow,3452,420,447,60,7,4386

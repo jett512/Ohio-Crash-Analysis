@@ -1,0 +1,20 @@
+CRASH_TYPE_CD,AverageSpeed
+Angle,14.4453
+Animal,49.1911
+Backing,4.9605
+"Fixed Object",33.7118
+"Head On",20.7181
+"Left Turn",14.0608
+"Other Non-Collision",31.8821
+"Other Non-Vehicle",0.0000
+"Other Object",46.8965
+Overturning,36.2998
+"Parked Vehicle",14.1242
+Pedalcycles,8.0639
+Pedestrian,6.6707
+"Rear End",20.3845
+"Right Turn",9.9225
+"Sideswipe - Meeting",21.6716
+"Sideswipe - Passing",25.3901
+Train,18.4375
+Unknown,25.8638

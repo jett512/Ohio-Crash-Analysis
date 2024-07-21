@@ -1,0 +1,25 @@
+CRASH_YR,CRASH_SEVERITY_CD,Count
+2017,"Injury Possible",2254
+2017,"Minor Injury Suspected",2132
+2017,"Property Damage Only",14746
+2017,"Serious Injury Suspected",502
+2018,Fatal,4
+2018,"Injury Possible",2361
+2018,"Minor Injury Suspected",2154
+2018,"Property Damage Only",15587
+2018,"Serious Injury Suspected",463
+2019,Fatal,50
+2019,"Injury Possible",1798
+2019,"Minor Injury Suspected",2354
+2019,"Property Damage Only",13095
+2019,"Serious Injury Suspected",451
+2020,Fatal,76
+2020,"Injury Possible",1956
+2020,"Minor Injury Suspected",2780
+2020,"Property Damage Only",14423
+2020,"Serious Injury Suspected",537
+2021,Fatal,76
+2021,"Injury Possible",2211
+2021,"Minor Injury Suspected",3084
+2021,"Property Damage Only",16273
+2021,"Serious Injury Suspected",633
